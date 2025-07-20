@@ -4,8 +4,10 @@
   💻 Practicante de Desarrollo Web | 📦 PHP & MVC | 🇵🇪 Perú
 </p>
 
----
 
+```markdown
+🔗 [Ver repositorio](https://github.com/GaelTech404/bodega_cielito)
+```
 ### 🚀 Sobre mí
 
 ```php
@@ -16,6 +18,8 @@ $yo = [
   'actualmente' => 'Mejorando mi sistema Bodega Cielito 🛒',
   'pasiones' => ['Programación limpia', 'Seguridad web', 'Aprendizaje constante'],
 ];
+```
+
 ### 📦 Proyectos destacados
 🛒 Bodega Cielito
 Sistema web de inventario en PHP puro con arquitectura MVC.
