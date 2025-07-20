@@ -4,11 +4,9 @@
   💻 Practicante de Desarrollo Web | 📦 PHP & MVC | 🇵🇪 Perú
 </p>
 
+---
 
-```markdown
-🔗 [Ver repositorio](https://github.com/GaelTech404/bodega_cielito)
-```
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
 ```php
 $yo = [
@@ -20,9 +18,22 @@ $yo = [
 ];
 ```
 
-### 📦 Proyectos destacados
-🛒 Bodega Cielito
-Sistema web de inventario en PHP puro con arquitectura MVC.
+---
+
+## 📦 Proyectos destacados
+
+### 🛒 Bodega Cielito
+Sistema web de inventario en PHP puro con arquitectura MVC.  
 Incluye gestión de productos, ventas, compras, usuarios y reportes con IA.
 
-🔗 Ver repositorio
+🔗 [Ver repositorio](https://github.com/GaelTech404/bodega_cielito)
+
+---
+
+## 📊 Estadísticas
+
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelTech404&show_icons=true&theme=radical)
+
+---
+
+> “Un código limpio no es un lujo, es una necesidad.” – Angel Torre
