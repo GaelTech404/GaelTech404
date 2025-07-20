@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Angel Torre! 👋</h1>
 
 <p align="center">
-  💻 Desarrollador Web | 🔍 Ethical Hacker | 📦 PHP Puro & MVC Fan | 🇵🇪 Perú
+  💻 Practicante de Desarrollo Web | 📦 PHP & MVC | 🇵🇪 Perú
 </p>
 
 ---
