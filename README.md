@@ -29,11 +29,15 @@ Incluye gestión de productos, ventas, compras, usuarios y reportes con IA.
 🔗 [Ver repositorio](https://github.com/GaelTech404/bodega_cielito)
 
 ---
+---
 
-## 📊 Estadísticas
+### 🛒 Sistema de Diagnóstico de Madurez Tecnológica
+Este sistema web permite a una empresa diagnosticar su nivel de madurez tecnológica mediante un cuestionario temático.
+Al finalizar, muestra resultados visuales y una recomendación generada por IA según el puntaje obtenido.
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelTech404&show_icons=true&theme=radical)
+🔗 [Ver repositorio](https://github.com/GaelTech404/diagnostico_tecnologico)
 
 ---
+
 
 > “Un código limpio no es un lujo, es una necesidad.” – Angel Torre
