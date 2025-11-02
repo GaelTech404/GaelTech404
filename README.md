@@ -31,7 +31,7 @@ Incluye gestión de productos, ventas, compras, usuarios y reportes con IA.
 ---
 ---
 
-### 🛒 Sistema de Diagnóstico de Madurez Tecnológica
+### 📈🤖 Sistema de Diagnóstico de Madurez Tecnológica
 Este sistema web permite a una empresa diagnosticar su nivel de madurez tecnológica mediante un cuestionario temático.
 Al finalizar, muestra resultados visuales y una recomendación generada por IA según el puntaje obtenido.
 
@@ -40,7 +40,7 @@ Al finalizar, muestra resultados visuales y una recomendación generada por IA s
 ---
 ---
 
-### 🛒 Sistema de Gestión para un Hotel
+### 🏷️🏨 Sistema de Gestión para un Hotel
 Este proyecto es una aplicación web para la administración integral de un hotel, permitiendo gestionar usuarios, roles y categorías de habitaciones mediante un panel de control seguro y fácil de usar.
 Actualmente se encuentra en fase activa de desarrollo, con actualizaciones y mejoras continuas administradas mediante control de versiones en Git.
 El sistema es desarrollado como un trabajo colaborativo universitario, soy contribuyente activo en la implementación y validación de funcionalidades.
