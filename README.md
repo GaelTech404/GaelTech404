@@ -38,6 +38,14 @@ Al finalizar, muestra resultados visuales y una recomendación generada por IA s
 🔗 [Ver repositorio](https://github.com/GaelTech404/diagnostico_tecnologico)
 
 ---
+---
 
+### 🛒 Sistema de Gestión para un Hotel
+Este proyecto es una aplicación web para la administración integral de un hotel, permitiendo gestionar usuarios, roles y categorías de habitaciones mediante un panel de control seguro y fácil de usar.
+Actualmente se encuentra en fase activa de desarrollo, con actualizaciones y mejoras continuas administradas mediante control de versiones en Git.
+El sistema es desarrollado como un trabajo colaborativo universitario, soy contribuyente activo en la implementación y validación de funcionalidades.
+🔗 [Ver repositorio](https://github.com/PierreCodex/Sistema-Hotel/tree/desarrollo)
+
+---
 
 > “Un código limpio no es un lujo, es una necesidad.” – Angel Torre
